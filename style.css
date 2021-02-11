@@ -1,0 +1,35 @@
+body {
+  background-color: lightgreen;
+  color: white;
+}
+
+h1 {
+  color: white;
+  text-align: left;
+  font-family: Copperplate;
+}
+
+h2 {
+	color: darkgreen;
+	text-align: left;
+	font-family: Copperplate;
+}
+p {
+  font-family: courier new;
+  font-size: 20px;
+}
+ 
+li {
+	color: white;
+	font-family: courier new;
+	font-size: 20px;
+}
+
+body {
+    background-image:url('sound.gif');
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+}
